@@ -1,0 +1,20 @@
+// Titles and font sizes
+const titles = [
+    { text: "Large Title", fontSize: "36px" },
+    { text: "Medium Title", fontSize: "24px" },
+    { text: "Small Title", fontSize: "18px" },
+    { text: "Tiny Title", fontSize: "12px" },
+];
+
+// Select the container
+const container = d3.select("#title-container");
+
+// Add titles to the container
+container
+    .selectAll("div")
+    .data(titles)
+    .enter()
+    .append("div")
+    .text(d => d.text)
+    .style("font-size", d => d.fontSize)
+    .style("margin", "5px");

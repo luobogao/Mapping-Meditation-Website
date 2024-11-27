@@ -1,0 +1,35 @@
+* Mapping Meditation Project
+
+We are mapping meditation 'space' using consumer EEG (Muse), powered by open-source AI analysis, made free to all meditators to help their journey. 
+
+Early results showed that strong meditators (> 5 year experience) have consistent, large gamma-wave increases at similar parts of their brains. Different meditation traditions targeted different parts of the brain.
+
+Currently we have an Android app for recording EEG during meditation, paired with a companion website which analyzes the data, highlighting typical changes of strong meditation.
+
+Long-term participants are thrilled with their results. Simply exploring their data after each meditation, comparing their results with previous results and with other particpants, helped them identify important moments during their meditation, increasing their confident, resulting in rapid progress. 
+
+Various companies are getting onboard with EEG for meditation analysis - but this project is entirely free and open-source, not participating in capitalist incentives or taking any funding whatsoever, in order to preserve the spiritual goals of the project.
+
+* Early Results
+
+Daniel Ingram, a meditation teacher and author, is providing ongoing recordings of his practice, along with phenomenological tags to help demonstrate the potential of this method. This graph shows his gamma-wave results (above the left frontal lobe) during a long retreat. His results are always the same - a massive, immediate increase in gamma waves at this location. These results match dozens of published studies reporting the same results (with better EEG systems), and these results also match the other strong mediators who participate.
+
+
+* Project Stages
+
+Our long-term goal is to provide a free app with useful metrics to anyone who already has a Muse EEG. This app is ready for any eager beta-testers or meditation participants, but we are still working on defining feedback metrics which are genuinely useful to the most number of people. In the meantime, current participants are taking a much more individualistic approach, working with their own data. 
+
+Stages:
+1) Develop App + Website so that participants can easily record, upload, and explore their data -> DONE
+2) Define basic metrics for measuring meditation -> IN PROGRESS
+3) Define more advanced metrics for high-powered meditators
+4) Publish all apps with available metrics
+
+* Participant Stories
+
+** Helen
+
+Helen is a relatively new meditator who connected strongly with Daniel's "Stages of Insight" guidance. Her dream is to map out her personal experiences into these stages - a goal that our project is perfect for! She has recorded dozens of sessions so far, including a few on long retreats, with many phenomenological descriptions, allowing for an excellent level of analysis. She takes on the raw data herself, performing her own analysis, looking for patterns. This is a big goal, requiring much more data than a simple gamma-change analysis. We estimate that with 5x more data, with at least a few data points for each 'stage' of insight, we will have a chance to distingish these stages empirically.
+
+
+
